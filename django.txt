@@ -1,7 +1,0 @@
-TO CREATE APP:PM.PY startapp news
-in moviereviews settings.py add add url
-in url.py
-admin.py
-templates folder 
-urls.py
-
